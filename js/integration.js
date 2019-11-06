@@ -1,3 +1,4 @@
+
 const midpointSum = (n, f, a, b) => {
     let dx = ((b - a) / n);
     let x = 0;
